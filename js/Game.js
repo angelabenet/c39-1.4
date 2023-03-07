@@ -136,8 +136,8 @@ class Game {
     Player.getPlayersInfo();
     player.getCarsAtEnd();
 
-    if (allPlayers !== undefined) {
-      image(track, 0, -height * 5, width, height * 6);
+    
+    // complete o código 
 
       this.showFuelBar();
       this.showLife();
